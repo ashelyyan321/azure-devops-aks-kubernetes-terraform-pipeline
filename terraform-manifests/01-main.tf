@@ -28,7 +28,7 @@ terraform {
 
 # Terraform State Storage to Azure Storage Container
 #  backend "azurerm" {
- #   resource_group_name   = "terraform-storage-rg"
+ #3   resource_group_name   = "terraform-storage-rg"
 #    storage_account_name  = "terraformstatefrida"
  #   container_name        = "tfstatefiles"
  #   key                   = "aks-base1.tfstate"
